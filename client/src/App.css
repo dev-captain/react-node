@@ -1,0 +1,25 @@
+.content{
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  
+}
+ul li{
+  margin: 15px;
+ 
+}
+input{
+  font-size: 20px
+}
+.btn{
+  margin-left: 10px;
+}
+.add_input{
+  font-size: 20px;
+}
+.add_btn{
+  font-size: 20px;
+  margin-left: 15px;
+}
+
